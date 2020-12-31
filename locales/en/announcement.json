@@ -1,0 +1,13 @@
+{
+  "category": "Category",
+  "author": "Author",
+  "published_at": "Published At",
+  "no_entry": "No entries.",
+  "categoryName": {
+    "website": "Website",
+    "normal": "Other",
+    "game_update": "Game Update",
+    "maintenance": "Maintenance",
+    "bug": "Bug"
+  }
+}
